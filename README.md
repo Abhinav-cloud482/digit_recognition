@@ -32,15 +32,6 @@ A convolutional neural network for classifying handwritten digits (0–9) from t
 └── outputs/              # generated after running — models, plots, reports
 ```
 
-## Setup
-
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
-pip install -r requirements.txt
-```
-
-Requires Python 3.9+.
 
 ## Usage
 
